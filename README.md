@@ -14,6 +14,10 @@ Pre-requisites
 - 1 Breadboard
 - 3 Jumper wires
 
+Schematics
+--------------
+(sample-switch-led/schematics/rpi3_schematics.png)
+
 License
 -------
 
