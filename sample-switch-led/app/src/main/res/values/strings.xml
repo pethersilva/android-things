@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">sample-switch-led</string>
+    <string name="toggle_turn_on">On</string>
+    <string name="toggle_turn_off">Off</string>
 </resources>
