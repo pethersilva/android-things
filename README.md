@@ -9,10 +9,10 @@ Pre-requisites
 - Android Things compatible board
 - Display with touch input or external pointing device
 - Android Studio 2.2+
-- LEDs
-- resistors
-- Breadboard
-
+- 1 LED
+- 1 resistor
+- 1 Breadboard
+- 3 Jumper wires
 
 License
 -------
