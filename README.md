@@ -16,7 +16,7 @@ Pre-requisites
 
 Schematics
 --------------
-(sample-switch-led/schematics/rpi3_schematics.png)
+![Schematics for Raspberry Pi 3](sample-switch-led/schematics/rpi3_schematics.png)
 
 License
 -------
